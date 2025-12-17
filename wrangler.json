@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cuma-post-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "6c26677c-03b7-4b70-bbd3-5a73bb825857",
+			"database_name": "database_post_cuma"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
